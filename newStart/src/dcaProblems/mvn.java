@@ -12,7 +12,8 @@ public class mvn {
     // Call info method
     logger.info("Message 1");
     logger.info("Message 2");
+		
+	System.out.println("This is added in Github.");
     }
-
     	
 }
